@@ -1,0 +1,14 @@
+{
+    "name": "e-kanto/json-api-specification-bundle",
+    "description": "Symfony bundle for json api specification implementation @see http://jsonapi.org/format/",
+    "type": "library",
+    "license": "GNU v3.0",
+    "authors": [
+        {
+            "name": "ratianarivo",
+            "email": "ratianarivo.hasina@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

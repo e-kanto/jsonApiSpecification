@@ -1,0 +1,4 @@
+services:
+#    json_api_specification.example:
+#        class: Ekanto\JsonApiSpecificationBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

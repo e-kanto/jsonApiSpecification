@@ -1,0 +1,3 @@
+json_api_specification_homepage:
+    path:     /
+    defaults: { _controller: JsonApiSpecificationBundle:Default:index }
